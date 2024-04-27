@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+    color: rgb(21, 82, 248);
+}
+h1:hover{
+    color: coral;
+}
+.r {
+    color: coral;
+    font-size: 50px;
+    text-align:center ;
+
+}
+img {
+    float: left;
+}
+
+header {
+background-image:linear-gradient(to right,black,white);
+}
+p{
+    color: coral;
+    font-size:20px;
+    text-align: center;
+    border: 5px double coral;
+    background-color: black;
+}
+.d{
+    border: 5px dotted chocolate;
+    background-color: black;
+}
+.f {
+   border: 9px double yellow;
+   background-color: rgb(0, 174, 255);
+   color: rgb(255, 255, 88);
+}
+article{
+    background-image:linear-gradient(to right,lightblue,rgb(5, 110, 248));
+}
+.г {
+    background-image: linear-gradient(to right,brown,white);
+    color: black;
+}
+.g {
+    height: 200px;
+    width: 300px;
+}
+
+
+
